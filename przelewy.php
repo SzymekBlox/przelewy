@@ -1,9 +1,9 @@
 <?php
 // Połączenie z bazą danych MySQL
-$servername = "mysql.ct8.pl";
-$username = "m39397_nomisz";
-$password = "z0Nbg9QL+yiXU4C?2m4=2XF;W25blr";
-$dbname = "m39397_auth";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
